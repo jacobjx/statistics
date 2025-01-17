@@ -8,7 +8,22 @@ This notebook is intended to serve as a sandbox for exploring and understanding 
 
 The data and examples in this notebook have been designed to represent "best-case" scenarios where statistical analysis assumptions are valid, and results are expected to be statistically significant. By providing a collection of standard tests on synthetic data, the notebook offers a controlled environment to explore various aspects of statistical analysis.
 
-### Ideas for experiments
+
+## Synthetic data of residential energy costs
+
+The synthetic data represents the costs of energy consumption for residential houses. Yearly energy consumption cost, measured in euros, is modeled as a function of several explanatory variables, such as house area, heating system, and other factors relevant to specific examples and analyses below.
+
+## Contents
+
+1. One sample t-test and point estimate
+2. Two-sample t-test with mean difference and confidence interval
+3. Simple linear regression
+4. Multiple linear regression
+5. Interactions in multiple linear regression
+6. One-way Anova 
+7. Two-way Anova
+
+## Ideas for experiments
 
 **1. Model predictions**
 
@@ -43,17 +58,4 @@ Experiments include:
 - Comparing result tables to identify consistent or divergent findings across methods.
 - Investigating how sample size, effect size, or data distribution affects the conclusions drawn by different approaches.
 
-# Synthetic data of residential energy costs
-
-The synthetic data represents the costs of energy consumption for residential houses. Yearly energy consumption cost, measured in euros, is modeled as a function of several explanatory variables, such as house area, heating system, and other factors relevant to specific examples and analyses below.
-
-# Contents
-
-
-1. One sample t-test and point estimate
-2. Two-sample t-test with mean difference and confidence interval
-3. Simple linear regression
-4. Multiple linear regression
-5. Interactions in multiple linear regression
-6. One-way Anova 
-7. Two-way Anova 
+ 
